@@ -1,0 +1,11 @@
+.error-btn {
+  background-color: red;
+  color: #fff;
+  border-radius: 1rem;
+}
+
+.btn {
+  background-color: green;
+  color: #fff;
+  border-radius: 1rem;
+}
